@@ -4,7 +4,7 @@
 - 🤝 Buscando colaborar por onde estiver! 
 - 💬 Curiosidades: C++ foi a primeira linguagem que conheci. Fiz um Sonar usando Arduino no Ensino Médio e essa experiência me trouxe para a Programação. Python foi minha segunda, mas é a que mais chamou minha atenção.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/brunohnsouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunohnsouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohnsouza&layout=compact&langs_count=7&theme=tokyonight"/>
