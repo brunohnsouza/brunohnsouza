@@ -1,6 +1,6 @@
 ## Hello World!! Eu sou o Bruno Henrique
 
-- 📖 Aprendendo Javascript, ReactJS, HTML/CSS3, Python, C++ e Arduino
+- 📖 Aprendendo Javascript, ReactJS, HTML/CSS3, Python e Arduino
 - 🤝 Buscando colaborar por onde estiver! 
 - 💬 Curiosidades: C++ foi a primeira linguagem que conheci. Fiz um Sonar usando Arduino no Ensino Médio e essa experiência me trouxe para a Programação. Python foi minha segunda, mas é a que mais chamou minha atenção.
 
@@ -16,7 +16,7 @@
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bruno-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">         <img align="center" alt="Bruno-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> 
+  <img align="center" alt="Bruno-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> 
   </div>
   
 ##
