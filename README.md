@@ -6,12 +6,10 @@
 - **Country:** Brazil 🇧🇷 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunohnsouza&color=yellow" alt="Profile views" /> </p>
 
-<br>
-
 <div align="left">
   <a href="https://github.com/brunohnsouza">
-  <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api?username=brunohnsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=DF9B47&icon_color=80407E"/>
-  <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohnsouza&layout=compact&langs_count=7&theme=dracula&title_color=DF9B47"/>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=brunohnsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=DF9B47&icon_color=80407E"/>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohnsouza&layout=compact&langs_count=7&theme=dracula&title_color=DF9B47"/>
 </div>
  
 <br>
