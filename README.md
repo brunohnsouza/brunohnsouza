@@ -1,7 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/brunohnsouza/d1d548861c03fe096d1aa6887672428f/raw/4ae1b966e590f7db8fdeca465bad5f816727fb8a/githubCard.svg"/>
 
-<br>
-
 # Hey Everyone!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Bruno Henrique
 
 - **Curiosity:** I got to know programming by developing a Sonar as a team using Arduino. Soon after, I took a Python course at Cisco, where I was interested in continuing to learn other languages. And now, here I am! 🚀
@@ -10,8 +8,8 @@
 
 <div align="left">
   <a href="https://github.com/brunohnsouza">
-  <img height="200em" width="300em" src="https://github-readme-stats.vercel.app/api?username=brunohnsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=DF9B47&icon_color=80407E"/>
-  <img height="200em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohnsouza&layout=compact&langs_count=7&theme=dracula&title_color=DF9B47"/>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=brunohnsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=DF9B47&icon_color=80407E"/>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohnsouza&layout=compact&langs_count=7&theme=dracula&title_color=DF9B47"/>
 </div>
  
 <br>
