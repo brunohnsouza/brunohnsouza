@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/brunohnsouza/d1d548861c03fe096d1aa6887672428f/raw/4ae1b966e590f7db8fdeca465bad5f816727fb8a/githubCard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/brunohnsouza/7164df83594fa287ae6797714e7c0dba/raw/f86f3f9338c4f05c433d3f19ce46ff06cd96427c/githubCardV2.svg"/>
 
 # Hey Everyone!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Bruno Henrique
 
