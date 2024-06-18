@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunohnsouza&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Front-End & Apaixonado por construir coisas com diversas tecnologias
+- 🔥 Desenvolvedor Front-End & Apaixonado por construir sistemas com diversas tecnologias
 - 👨‍💻 Todos os meus projetos estão disponíveis em [brunosouzadev](https://brunosouzadev.netlify.app/)
 - 💬 Pergunte-me sobre JavaScript, HTML, CSS, Node.JS, Angular, React
 - 🌐 Escritor de artigos no [OBlog](https://oblog.vercel.app/)
