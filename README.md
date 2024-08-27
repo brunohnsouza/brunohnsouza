@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunohnsouza&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Front-End & Apaixonado por construir sistemas com diversas tecnologias
-- 👨‍💻 Todos os meus projetos estão disponíveis em [brunosouzadev](https://brunosouzadev.netlify.app/)
-- 💬 Pergunte-me sobre JavaScript, HTML, CSS, Node.JS, Angular, React
-- 🌐 Escritor de artigos no [OBlog](https://oblog.vercel.app/)
+- 🔥 Front-End Developer & Passionate about building systems with different technologies
+- 👨‍💻 The main projects are in [brunosouzadev](https://brunosouzadev.netlify.app/)
+- 💬 Ask me about JavaScript, HTML, CSS, Node.JS, Angular, React
+- 🌐 Article writer at [OBlog](https://oblog.vercel.app/)
 
-## 🛠️ Habilidades
+## Skills
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -21,11 +21,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](	https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
  
-## 😎 Contatos
+## Contacts
 
 <div style="display: inline_block">
   <a href="mailto:brunohnsouzacontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunohnsouza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake Commits](https://github.com/brunohnsouza/brunohnsouza/blob/output/github-contribution-grid-snake.svg)
