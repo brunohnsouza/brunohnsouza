@@ -1,6 +1,6 @@
 # Olá 👋, eu sou o Bruno Souza
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunohnsouza&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunohnsouza&color=09090b&style=for-the-badge" alt="Profile views" /> </p>
 
 - 🔥 Front-End Developer & Passionate about building systems with different technologies
 - 👨‍💻 The main projects are in [brunosouzadev](https://brunosouzadev.netlify.app/)
