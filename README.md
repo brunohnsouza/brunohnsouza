@@ -1,4 +1,4 @@
-# Olá 👋, eu sou o Bruno Souza
+# Hi 👋, I'm Bruno Souza
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunohnsouza&color=09090b&style=for-the-badge" alt="Profile views" /> </p>
 
