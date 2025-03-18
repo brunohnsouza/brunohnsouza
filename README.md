@@ -4,8 +4,10 @@
 
 - 🔥 Front-End Developer & Passionate about building systems with different technologies
 - 👨‍💻 The main projects are in [brunosouzadev](https://brunosouzadev.netlify.app/)
-- 💬 Ask me about JavaScript, HTML, CSS, Node.JS, Angular, React
+- 💬 Ask me about JavaScript, HTML, CSS, Node.JS, Angular, React, Astro, Next.js
 - 🌐 Article writer at [OBlog](https://oblog.vercel.app/)
+- 🔭 I’m currently working at [Aura.co](https://github.com/auratechco)
+- ▶️ Check out my video collection on [my GitHub repository](https://github.com/brunohnsouza/videos)
 
 ## Skills
 
