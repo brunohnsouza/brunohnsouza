@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunohnsouza&color=09090b&style=for-the-badge" alt="Profile views" /> </p>
 
 - 🔥 Front-End Developer & Passionate about building systems with different technologies
-- 👨‍💻 The main projects are in [brunosouzadev](https://brunosouzadev.netlify.app/)
+- 👨‍💻 The main projects are in [brunosouzadev](https://brunosouzadev.vercel.app/)
 - 💬 Ask me about JavaScript, HTML, CSS, Node.JS, Angular, React, Astro, Next.js
-- 🌐 Article writer at [OBlog](https://oblog.vercel.app/)
+- 🌐 Article writer at [OBlog](https://brunosouzadev.vercel.app/oblog)
 - 🔭 I’m currently working at [Aura co.](https://github.com/auratechco)
 - ▶️ Check out my video collection on [my GitHub repository](https://github.com/brunohnsouza/videos)
 
