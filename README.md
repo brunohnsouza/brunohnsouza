@@ -6,7 +6,7 @@
 - 👨‍💻 The main projects are in [brunosouzadev](https://brunosouzadev.vercel.app/)
 - 💬 Ask me about JavaScript, HTML, CSS, Node.JS, Angular, React, Astro, Next.js
 - 🌐 Article writer at [OBlog](https://brunosouzadev.vercel.app/oblog)
-- ▶️ Check out my video collection on [my GitHub repository](https://github.com/brunohnsouza/videos)
+- ▶️ Check my videos on [my YouTube channel](https://www.youtube.com/channel/UCqi_VQE4J9FqBunxeymT2zQ)
 
 ## Skills
 
